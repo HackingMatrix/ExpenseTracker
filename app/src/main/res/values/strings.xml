@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Expenses Control</string>
+    <string name="enter_monthly_income">Enter Monthly Income</string>
+    <string name="expenses_vs_income">Expenses vs Income</string>
+    <string name="warning_expenses_exceed">Warning: Expenses exceed your budget!</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="view_expenses">View Expenses</string>
+    <string name="money_tips">Money Tips</string>
+    <string name="expense_name">Expense Name</string>
+    <string name="amount">Amount</string>
+    <string name="please_fill_fields">Please fill in both fields.</string>
+    <string name="add_new_expense">Add New Expense</string>
+    <string name="back">Back</string>
+    <string name="expenses_list">Expenses List</string>
+    <string name="change_language_to_spanish">Change language to Spanish</string>
+    <string name="change_language_to_english">Change language to English</string>
+    <string name="expense_name_hint">Expense Name</string>
+    <string name="amount_hint">Amount</string>
+    <string name="error_message">Please fill in both fields.</string>
+    <string name="add_expense_button">Add Expense</string>
+    <string name="back_button">Back</string>
+    <string name="delete_button">Delete</string>
+    <string name="expense">Expense</string>
+    <string name="profit">Profit</string>
+    <string name="budget">Budget</string>
+    <string name="summary_label">Summary</string>
+</resources>
